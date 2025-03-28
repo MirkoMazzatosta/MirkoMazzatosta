@@ -3,6 +3,8 @@
 
 ---
 
+</br>
+
 ## 📌 About Me  
 👋 Hi there! I'm Mirko, a curious learner passionate about building user-friendly interfaces.  
 🔧 Currently sharpening my skills in **Javascript**, **Node.js**, and **React**.  

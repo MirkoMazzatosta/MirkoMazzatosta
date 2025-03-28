@@ -13,7 +13,8 @@
 🧠 No matter how hard the objective, i try to maintain my focus on achieving my objective. Motivation is my key to reach it!
 ---
 </br>
-## 🛠️ Tech Stack  
+
+## 🛠️ Tech Stack
 
 **Frontend Development**  
 🔹 **HTML5**  
